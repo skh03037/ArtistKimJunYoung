@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://http://kimjunyoung.kro.kr//sitemap.xml
